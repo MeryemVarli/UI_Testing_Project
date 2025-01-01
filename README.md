@@ -23,3 +23,6 @@ Automated UI testing for the Medical Guardian website using Selenium and Cucumbe
 - Login functionality (positive scenario)
 - Adding a product to the cart
 
+## Tests Report
+- [UI Test Report]([uiReport.html](https://MeryemVarli.github.io/UI_Testing_Project/uiReport.html)): View the automated UI test results.
+
